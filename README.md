@@ -87,6 +87,8 @@ The server will start on <http://localhost:3000>
 
 ## Project Structure
 
+```bash
+
 ├── src/
 │   ├── controllers/
 │   │   ├── StudentController.js
@@ -107,6 +109,7 @@ The server will start on <http://localhost:3000>
 ├── Dockerfile
 ├── index.js
 └── package.json
+```
 
 ## Dependencies
 
