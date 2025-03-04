@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "fullname": "John Doe",
+    "courses": ["Math", "Science", "History"]
+  },
+  {
+    "id": 2,
+    "fullname": "Jane Smith",
+    "courses": ["English", "Art", "Physical Education"]
+  },
+  {
+    "id": 3,
+    "fullname": "Alice Johnson",
+    "courses": ["Biology", "Chemistry", "Physics"]
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "fullname": "John Doe",
+    "courses": ["Math", "Science", "History"],
+    "salary": 50000,
+    "diplome": "PhD in Mathematics"
+  },
+  {
+    "id": 2,
+    "fullname": "Jane Smith",
+    "courses": ["English", "Art", "Physical Education"],
+    "salary": 55000,
+    "diplome": "Master's in English Literature"
+  },
+  {
+    "id": 3,
+    "fullname": "Alice Johnson",
+    "courses": ["Biology", "Chemistry", "Physics"],
+    "salary": 60000,
+    "diplome": "PhD in Biology"
+  },
+  {
+    "id": 4,
+    "fullname": "Michael Brown",
+    "courses": ["Geography", "History", "Political Science"],
+    "salary": 52000,
+    "diplome": "Master's in Geography"
+  },
+  {
+    "id": 5,
+    "fullname": "Emily Davis",
+    "courses": ["Music", "Drama", "Dance"],
+    "salary": 48000,
+    "diplome": "Bachelor's in Performing Arts"
+  },
+  {
+    "id": 6,
+    "fullname": "David Wilson",
+    "courses": ["Computer Science", "Math", "Physics"],
+    "salary": 62000,
+    "diplome": "PhD in Computer Science"
+  },
+  {
+    "id": 7,
+    "fullname": "Sarah Miller",
+    "courses": ["French", "Spanish", "German"],
+    "salary": 53000,
+    "diplome": "Master's in Linguistics"
+  },
+  {
+    "id": 8,
+    "fullname": "James Anderson",
+    "courses": ["Economics", "Business Studies", "Accounting"],
+    "salary": 59000,
+    "diplome": "Master's in Economics"
+  },
+  {
+    "id": 9,
+    "fullname": "Laura Thomas",
+    "courses": ["Philosophy", "Psychology", "Sociology"],
+    "salary": 57000,
+    "diplome": "PhD in Philosophy"
+  },
+  {
+    "id": 10,
+    "fullname": "Robert Jackson",
+    "courses": ["Engineering", "Math", "Physics"],
+    "salary": 61000,
+    "diplome": "PhD in Engineering"
+  },
+  {
+    "id": 11,
+    "fullname": "Linda White",
+    "courses": ["Biology", "Environmental Science", "Geology"],
+    "salary": 54000,
+    "diplome": "Master's in Environmental Science"
+  },
+  {
+    "id": 12,
+    "fullname": "William Harris",
+    "courses": ["Law", "Political Science", "History"],
+    "salary": 58000,
+    "diplome": "Juris Doctor"
+  },
+  {
+    "id": 13,
+    "fullname": "Jessica Martin",
+    "courses": ["Nursing", "Health Science", "Biology"],
+    "salary": 56000,
+    "diplome": "Master's in Nursing"
+  }
+]
