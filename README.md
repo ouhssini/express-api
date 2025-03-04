@@ -24,7 +24,7 @@ This project is a Node.js/Express.js application that provides API endpoints to 
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ouhssini/express-api
    ```
 
 2. Navigate to the project directory:
